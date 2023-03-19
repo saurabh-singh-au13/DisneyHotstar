@@ -1,0 +1,15 @@
+use of router ?
+
+router allows us to switch between pachages without reloade the page.
+
+
+justify-content: center means horizontal center ----------------------->CENTER<---------------------------
+align-items: center means Vertical center  |
+                                           |
+                                           |
+                                           |
+                                        CENTER
+                                           |
+                                           |
+                                           |
+                                           |
